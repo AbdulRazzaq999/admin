@@ -11,7 +11,7 @@ import { ToastContainer } from 'react-toastify';
   import 'react-toastify/dist/ReactToastify.css';
 
 
-export const backend_url = "http://localhost:4000";
+export const backend_url = "https://ecom-back-5aay.onrender.com";
 
 
 const App = () => {
